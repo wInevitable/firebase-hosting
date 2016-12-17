@@ -84,6 +84,10 @@ firebase deploy --project project_alias_or_id
 firebase deploy --only hosting, database, storage
 ```
 
+## Visit Your Application
+
+1. Navigate to the project URL directly `project_name.firebaseapp.com` or run `firebase open` from the command line.
+
 ## Realtime Database
 
 1.
